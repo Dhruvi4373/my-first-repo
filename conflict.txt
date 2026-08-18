@@ -1,1 +1,1 @@
-﻿Version from main branch
+﻿Version resolved: Merged both main and conflict-branch
